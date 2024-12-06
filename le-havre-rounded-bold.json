@@ -1,0 +1,16 @@
+{
+  "GlyphOrder": "<fontTools.ttLib.ttFont.GlyphOrder object at 0x7ebcdac3c0a0>",
+  "head": "<'head' table at 7ebcdab58f60>",
+  "hhea": "<'hhea' table at 7ebcdaca4fa0>",
+  "maxp": "<'maxp' table at 7ebcdaca6d20>",
+  "OS/2": "<'OS/2' table at 7ebcdac6f460>",
+  "name": "<'name' table at 7ebcdacf5ce0>",
+  "cmap": "<'cmap' table at 7ebcdad17360>",
+  "post": "<'post' table at 7ebcdd714f60>",
+  "CFF ": "<'CFF ' table at 7ebcd56e4ba0>",
+  "GDEF": "<'GDEF' table at 7ebcdd7114e0>",
+  "GPOS": "<'GPOS' table at 7ebcdd7114a0>",
+  "GSUB": "<'GSUB' table at 7ebcdbbee5e0>",
+  "hmtx": "<'hmtx' table at 7ebcd5a27220>",
+  "kern": "<'kern' table at 7ebcdad17420>"
+}
